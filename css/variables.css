@@ -1,0 +1,17 @@
+:root {
+    --green: #06D59F;
+    --red: #EE476F;
+    --yellow: #FFD166;
+    --blue: #0075F2;
+    --purple: #52489C;
+    --gray: #404040;
+
+    --green-hover: #00AE81;
+    --red-hover: #D23F62;
+    --yellow-hover: #DEB351;
+    --blue-hover: #005FC5;
+    --purple-hover: #39326E;
+    --gray-hover: #545454;
+
+    --font-monteserrat: 'Montserrat', sans-serif;
+}
